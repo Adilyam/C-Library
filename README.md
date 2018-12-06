@@ -1,5 +1,5 @@
 # C LIBRARY
->Re-code a set of the libc functions
+>Re-coded set of the libc functions
 
 The project consists of 2 parts:
 1)  Re-coded set of the libc functions, as defined in their
