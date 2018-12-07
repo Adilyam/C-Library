@@ -13,7 +13,7 @@ libc, or included in a different form. Some of these functions was useful to wri
 
 ## Installation
 
-OS X & Linux & Windows::
+OS X & Linux:
 
 ```sh
 make && make clean
